@@ -1,0 +1,4 @@
+node_modules/
+.card_game
+*.json
+.player
