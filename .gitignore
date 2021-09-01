@@ -1,4 +1,4 @@
 node_modules/
-.card_game
+card_game
 *.json
-.player
+player
